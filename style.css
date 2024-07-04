@@ -37,10 +37,7 @@ ul {
 }
 
 ul li {
-  margin: 10px 0;
-}
-li{
-    list-style-type: disc;
+  margin: 15px 0;
 }
 .hng{
     border-top: solid #4caf50 5px;
